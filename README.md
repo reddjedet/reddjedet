@@ -1,5 +1,7 @@
 <h1 align="left">Hey there!</h1>
-<h3 align="left">I'm Christian, a Radiologic Technologist, an amateur AI enthusiast, and data curious 🧠⚙️</h3>
+<h3 align="left">I'm <a href="https://christianquidel-cv-site.lovable.app">Christian</a> , a Radiologic Technologist, an amateur AI enthusiast, and data curious 🧠⚙️</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddjedet&label=Profile%20views&color=0e75b6&style=flat" alt="reddjedet" /> </p>
 
