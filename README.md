@@ -5,7 +5,7 @@
 
 | [ 📂 ] | Bio / Christian.md | [ _ ] [ □ ] [ X ] |
 | :--- | :--- | :--- |
-| | **Role:** Radiologic Technologist / student | |
+| | **Role:** Radiologic Technologist / data student | |
 | | **Location:** Argentina | |
 | | **Status:** Learning about LLMs and Data Analysis | |
 
