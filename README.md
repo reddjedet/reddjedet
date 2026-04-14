@@ -36,8 +36,9 @@
 
 
  📈 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddjedet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddjedet&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+
+[^1]: Nota al pie de página: no anda <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddjedet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
