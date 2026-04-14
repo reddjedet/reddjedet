@@ -1,6 +1,13 @@
 <h1 align="left">Hey there! I'm <a href="https://christianquidel-cv-site.lovable.app">Christian</a>👋 </h1>
- Radiologic Technologist | 🤖 AI Enthusiast | 📊 Data Curious 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddjedet&label=Profile%20views&color=0e75b6&style=flat" alt="visitas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reddjedet&label=Profile%20views&color=0e75b6&style=flat" alt="visitas" /> </p>
+
+### 🖥️ System Status: Online
+
+| [ 📂 ] | Bio / Christian.md | [ _ ] [ □ ] [ X ] |
+| :--- | :--- | :--- |
+| | **Role:** Radiologic Technologist / AI Enthusiast | |
+| | **Location:** Argentina | |
+| | **Status:** Learning about LLMs and Data Analysis | |
 
 
 ### 🛠 Tech Stack
@@ -19,10 +26,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+
+
 <p align="left">Contact:</p>
 <p align="left">
 <a href="https://linkedin.com/in/quidelchristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quidelchristian" height="30" width="40" /></a>
 </p>
+
 
 
  📈 My GitHub Stats
