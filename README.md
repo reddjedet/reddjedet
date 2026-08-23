@@ -5,10 +5,9 @@
 
 | [ 📂 ] | Bio / Christian.md | [ _ ] [ □ ] [ X ] |
 | :--- | :--- | :--- |
-| | **Role:** Radiologic Technologist / data student | |
+| | **Role:** Radiologic Technologist / data, OCI & cybersecurity student | |
 | | **Location:** Argentina | |
 | | **Status:** Learning about LLMs and Data Analysis | |
-
 
 ### 🛠 Tech Stack
 
@@ -24,8 +23,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 **Cloud, DevOps & Tools**
 
@@ -34,6 +33,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+**Methodologies & Leadership**
+
+![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-2088FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-1E88E5?style=for-the-badge&logo=target&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-2196F3?style=for-the-badge&logo=users&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge&logo=slack&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge&logo=lightbulb&logoColor=white)
 
 <p align="left">Contact:</p>
 <p align="left">
