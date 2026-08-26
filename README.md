@@ -1,5 +1,8 @@
-<h1 align="left">Hey there! I'm <a href="https://christianquidel-cv-site.lovable.app">Christian</a>👋 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reddjedet&label=Profile%20views&color=0e75b6&style=flat" alt="visitas" /> </p>
+<h1 align="left">Hey there! I'm <a href="https://christianquidel-cv-site.lovable.app">Christian</a> 👋</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=reddjedet&label=Profile%20views&color=0e75b6&style=flat" alt="visitas" />
+  <img src="https://img.shields.io/badge/Open%20To-Work%20%2F%20Remote-brightgreen?style=flat" alt="Open to work" />
+</p>
 
 ### 🖥️ System Status: Online
 
