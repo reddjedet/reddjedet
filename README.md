@@ -18,16 +18,18 @@
 ### 🚀 Featured Projects
 
 #### 🔹 [FinanceAI – Intelligent Financial Diagnostic & NLP Platform](https://github.com/reddjedet)
-> *Lead Data Scientist & Deployment Lead | Oracle Next Education (ONE) Hackathon*
-- **NLP Text Classification:** Categorized 240,000+ financial transactions into 10 classes with 99% accuracy using Scikit-Learn & TF-IDF.
-- **MLOps & Low Latency:** Serialized pipelines to **ONNX** format (`skl2onnx`) for sub-millisecond inference inside a Java 17 / Spring Boot service.
-- **Cloud Architecture:** Orchestrated 4 microservices (Vue 3, Spring Boot, MySQL, Jupyter) via **Docker Compose** deployed to **Oracle Cloud Infrastructure (OCI Compute)**.
-- **Team Leadership:** Coordinated Git workflows, branching strategies, and sprint deliverables.
+> *Data Scientist & Deployment Lead | Oracle Next Education (ONE) Hackathon*
+- **NLP Text Classification:** Categorized 240,000+ financial transactions into 10 classes with 99% test accuracy using Scikit-Learn (TF-IDF & linear classifiers).
+- **MLOps & Low-Latency Inference:** Serialized Scikit-learn models into **ONNX** format (`skl2onnx`) for sub-millisecond native inference inside Java 17 / Spring Boot backend services.
+- **Multi-Service Architecture:** Orchestrated 4 containerized microservices (Vue 3, Spring Boot, MySQL, Jupyter) via **Docker Compose** deployed to **Oracle Cloud Infrastructure (OCI Compute)**.
+- **Team Leadership:** Coordinated Git repository integration, branching strategies, and sprint deliverables for the cross-functional team.
 
-#### 🔹 [Exploratory Data Analysis & Predictive Modeling Practice](https://github.com/reddjedet)
-> *Independent Data Science Practitioner*
-- In-depth EDA on tabular datasets: correlation analysis, outlier detection with IQR, and feature preprocessing with Pandas and Seaborn.
-- Machine Learning pipelines: Decision Trees, Logistic Regression, and hyperparameter tuning with GridSearchCV.
+#### 🔹 [Machine Learning Pipelines, Optimization & Cloud Deployment](https://github.com/reddjedet)
+> *Applied Machine Learning & Containerized Infrastructure Practice*
+- **Model Training & Hyperparameter Tuning:** Implemented Decision Trees and classification pipelines with Scikit-Learn, conducting systematic optimization via `GridSearchCV` (cross-validation) and metric evaluation (F1-Score, ROC-AUC, RMSE).
+- **Container Orchestration (Docker Compose):** Built multi-container environments with isolated networking, volume persistence, and environment variable configuration for reproducible deployments.
+- **Cloud Infrastructure (OCI):** Configured and operated Linux compute instances on Oracle Cloud Infrastructure for reliable service hosting.
+- **AI-Assisted Engineering:** Leveraged Antigravity and OpenCode to streamline pipeline prototyping, code debugging, and cloud deployment automation.
 
 ---
 
