@@ -55,17 +55,17 @@
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 📈 GitHub Contributions & Activity
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=reddjedet&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/2563eb/reddjedet" alt="Christian's GitHub Contributions Chart" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddjedet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=reddjedet&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/followers/reddjedet?label=Followers&style=flat-square&logo=github&color=2563eb" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-059669?style=flat-square&logo=python&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-7c3aed?style=flat-square&logo=git&logoColor=white" alt="Status" />
 </p>
-
 ---
 
 ### 📬 Connect With Me
